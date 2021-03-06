@@ -1,7 +1,6 @@
 amqp==2.6.0
 anyjson==0.3.3
 appdirs==1.4.4
-apturl==0.5.2
 asgiref==3.3.1
 attrs==20.3.0
 Automat==20.2.0
